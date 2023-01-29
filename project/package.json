@@ -41,7 +41,7 @@
       "parser": "@babel/eslint-parser"
     },
     "rules": {
-      
+      "space-before-function-paren":"off"
     }
   },
   "browserslist": [
